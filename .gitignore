@@ -2,3 +2,4 @@
 
 *.jld
 *.jld2
+.vscode/settings.json
